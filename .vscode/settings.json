@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python/formatting.provider": "black",
+    "editor.formattingOnSave": true,
+    "files.autosave": "onFocusChange",
+    "editor.tabSize": 4,
+}
